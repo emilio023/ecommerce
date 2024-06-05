@@ -10,6 +10,7 @@ import Login from "./pages/login"
 import Registro from "./pages/registro"
 import Footer from "./Components/footer"
 import Contactanos from "./pages/contactanos"
+import Conocenos from "./pages/conocenos"
 function App() {
 
   return (
@@ -24,6 +25,7 @@ function App() {
             <Route path="/registro" element={<Registro></Registro>}></Route>
             <Route path="*" element={<Navigate to="/"></Navigate>}></Route>
             <Route path="/contactanos" element={<Contactanos></Contactanos>}></Route>
+            <Route path="/conocenos" element={<Conocenos></Conocenos>}></Route>
           </Routes>
         </Layout>
         <Footer></Footer>

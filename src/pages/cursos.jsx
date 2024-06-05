@@ -11,6 +11,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Camisa Mr Beast</h2>
                             <p class="mt-1">$16.00</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -21,6 +22,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Balón de Básquetbol</h2>
                             <p class="mt-1">$21.15</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -31,6 +33,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Chocolate</h2>
                             <p class="mt-1">$12.00</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -41,6 +44,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Sudadera</h2>
                             <p class="mt-1">$18.40</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -51,6 +55,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Gorra</h2>
                             <p class="mt-1">$16.00</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -61,6 +66,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Conjunto Pijama</h2>
                             <p class="mt-1">$21.15</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -71,6 +77,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Bandas</h2>
                             <p class="mt-1">$12.00</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                     <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -81,6 +88,7 @@ const Cursos = () => {
                             <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
                             <h2 class="text-gray-900 title-font text-lg font-medium">Camisa Dorada</h2>
                             <p class="mt-1">$18.40</p>
+                            <button className="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Comprar</button>
                         </div>
                     </div>
                 </div>

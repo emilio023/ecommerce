@@ -10,23 +10,23 @@ const Footer = () => {
                         </svg>
                         <span className="ml-3 text-xl">Mr Beast</span>
                     </a>
-                    <p className="mt-2 text-sm text-gray-500">La mejor plataforma para estudintes</p>
+                    <p className="mt-2 text-sm text-gray-500">El creador más grande de contenido</p>
                 </div>
                 <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+                        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Redes Sociales</h2>
                         <nav className="list-none mb-10">
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800">First Link</a>
+                                <a href="https://www.youtube.com/@MrBeast/featured" className="text-gray-600 hover:text-pink-600	cursor-pointer">Youtube</a>
                             </li>
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+                                <a href="https://www.facebook.com/MrBeast6000/" className="text-gray-600 hover:text-pink-600	 cursor-pointer">Faceboock</a>
                             </li>
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+                                <a href="https://x.com/MrBeast" className="text-gray-600 hover:text-pink-600	 cursor-pointer">Twitter</a>
                             </li>
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+                                <a href="https://www.tiktok.com/@mrbeaststore" className="text-gray-600 hover:text-pink-600	 cursor-pointer">TikTok</a>
                             </li>
                         </nav>
                     </div>

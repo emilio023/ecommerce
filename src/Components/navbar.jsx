@@ -15,6 +15,7 @@ const NavBar = () => {
                 <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
                     <NavLink to="/" className={({ isActive }) => isActive ? activeLink : btnLink}>Inicio</NavLink>
                     <NavLink to="/cursos" className={({ isActive }) => isActive ? activeLink : btnLink}>Productos</NavLink>
+                    <NavLink to="/conocenos" className={({ isActive }) => isActive ? activeLink : btnLink}>Conocenos</NavLink>
                     {/* <a className={btnLink}>Inicio</a>
                     <a className={btnLink}>Cursos</a> */}
 
